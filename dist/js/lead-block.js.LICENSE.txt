@@ -1,0 +1,7 @@
+/*!
+ * Lead block.
+ *
+ * @package tsln
+ * @handle tsln-lead-block
+ * @deps wp-blocks, wp-i18n, wp-block-editor, wp-components, wp-data
+ */
